@@ -83,6 +83,13 @@ From there you would need to head over to the virtual machine section and select
 <img src="https://i.imgur.com/Nzt3lgV.png" height="80%" width="80%" alt="Image 9"/>
 
 
+Once you have clicked on your virtual machine make a note of the public ip address as you would need RDP into it.
+
+<img src="https://i.imgur.com/MJsWroO.png" height="80%" width="80%" alt="Image 10"/>
+
+
+Once connected to the virtual machine you would need to disable firewall. Go to the start menu and type wf.msc and select. click on Windows Defender Firewall Properties turn off domain profile, private profile off, and public profile and click apply and ok
+
 
 
 

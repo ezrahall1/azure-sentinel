@@ -1,7 +1,7 @@
 <h1>Azure Sentinel</h1>
 
 <h2>Description</h2>
-In this project I will be demonstrating how to set up a cloud based SIEM, as well as VM virtual machine in the cloud which will be the honeypot. It will be have vulnerbalilites to the internet which I will monitor and log the attacks from diferent ip addresses from differnet countries all over the world.
+In this project I will be demonstrating how to set up a cloud based SIEM, as well as virtual machine in the cloud which will be the honeypot. It will be have vulnerabilities to the internet which I will monitor and log the attacks from different ip addresses, from different countries all over the world. I will extract the failed log on data and ingest it into Azure Sentinel and present it on a world map so you can visualize where the attacks are coming from.
 <br />
 
 
@@ -13,8 +13,7 @@ In this project I will be demonstrating how to set up a cloud based SIEM, as wel
 
 <h2>Environments Used </h2>
 
-- <b>VMware Workstation</b>
-- <b>Windows 10</b>
+- <b>Azure</b>
 
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Create security group</H3>

@@ -22,7 +22,9 @@ Once you have log into the Azure account you would need to enter virtual machine
 <img src="https://i.imgur.com/yLaNnxc.png" height="80%" width="80%" alt="Image 1"/>
 
 Click create and select Azure virtual machine and fill in details and click next:disk.
+
 You can leave the disk section as default and click next: networking
+
 In the networking section where it says "NIC network security group" select advanced and click on create new
 
 <img src="https://i.imgur.com/ip3CC17.png" height="80%" width="80%" alt="Image 2"/>  

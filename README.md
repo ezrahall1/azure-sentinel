@@ -37,12 +37,20 @@ Click add, then ok.
 
 <img src="https://i.imgur.com/ImpNzBE.png" height="80%" width="80%" alt="Image 4"/>
 
+Click review and create
 
 
 
 
+<H3>Step 2 – Setting up log analytics workspaces </H3>
+The next step is to eneter log analytics workspaces in the search field
 
-<H3>Step 2 – Connecting to EC2 instance </H3>
+
+
+
+<img src="https://i.imgur.com/MLyNts5.png" height="80%" width="80%" alt="Image 5"/>
+
+
 
 <H3>Step 3 – Install Jenkins</H3>
 To ensure that your software packages are up to date on your instance, use the following command to perform a quick software update:

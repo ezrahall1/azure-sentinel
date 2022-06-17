@@ -29,8 +29,9 @@ In the networking section where it says "NIC network security group" select adva
 
 <img src="https://i.imgur.com/ip3CC17.png" height="80%" width="80%" alt="Image 2"/>  
 
+You would need to remove the inbound rule and add a new one with these details
 
-
+<img src="https://i.imgur.com/RLkoyjN.png" height="80%" width="80%" alt="Image 3"/>
 
 
 

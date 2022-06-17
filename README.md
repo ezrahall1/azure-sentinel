@@ -54,7 +54,7 @@ Click on create log analytics workspaces, select your resource group, enter a na
 <img src="https://i.imgur.com/Nf0q73D.png" height="80%" width="80%" alt="Image 6"/>
 
 
-<H3>Step 3 – Microsoft Defender for Cloudr</H3>
+<H3>Step 3 – Microsoft Defender for Cloud</H3>
 
 The  next step is to go to the Microsoft Defender for Cloud. Click on Azure subscriptions and make the following changes
 
@@ -62,6 +62,27 @@ The  next step is to go to the Microsoft Defender for Cloud. Click on Azure subs
 
 
 <img src="https://i.imgur.com/AVGNv61.png" height="80%" width="80%" alt="Image 8"/>
+
+
+<H3>Step 4 – Setting up Sentinel</H3> 
+
+Enter Microsoft Sentinel in the search field and click on Microsoft Sentinel.
+
+Click on create Microsoft Sentinel, and add your workspace
+
+
+This is the SIEM I will be using to visualize the attack data
+
+
+
+<H3>Step 5 – Connect to virtual machine</H3> 
+
+In the log analytic workspace click the name of your workspace and select virtual machine. Click connect to connect to the virtual machine.
+From there you would need to head over to the virtual machine section and select your virtual machine that should be available now.
+
+<img src="https://i.imgur.com/Nzt3lgV.png" height="80%" width="80%" alt="Image 9"/>
+
+
 
 
 

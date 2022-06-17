@@ -90,6 +90,16 @@ Once you have clicked on your virtual machine make a note of the public ip addre
 
 Once connected to the virtual machine you would need to disable firewall. Go to the start menu and type wf.msc and select. click on Windows Defender Firewall Properties turn off domain profile, private profile off, and public profile and click apply and ok
 
+Open up Powershell ISE and enter commands attached to this project.
+
+<img src="https://i.imgur.com/qvGDNFO.png" height="80%" width="80%" alt="Image 11"/>
+
+<H3>Step 5 – Create custom log</H3>
+
+Head over to the log analytics workspaces page, click on your workspace and select custom logs, click add custom logs
+
+<img src="https://i.imgur.com/O7qwp6t.png" height="80%" width="80%" alt="Image 12"/>
+
 
 
 

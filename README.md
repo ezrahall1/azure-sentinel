@@ -18,20 +18,24 @@ In this project I will be demonstrating how to set up a cloud based SIEM, as wel
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Create VM/H3>
 Once you have log into the Azure account you would need to enter virtual machines in the search field.
-<img src="https://i.imgur.com/yLaNnxc.png" height="80%" width="80%" alt="Image 1"/>
   
-You will create a security group and add the following rules: * Allow inbound HTTP access from anywhere. * Allow inbound SSH traffic from your computer’s public IP address so that you can connect to your EC2 instance.
+<img src="https://i.imgur.com/yLaNnxc.png" height="80%" width="80%" alt="Image 1"/>
 
-From there you would need to launch an EC2 instance Enter the name of the EC2 select Amazon Linux, make sure the Amazon Machine Image (AMI) says free tier eligible. For the instance type make sure you select free tier eligible or you would be charged. Create a new key pair if you do not already have one. In the network settings section leave "allow SSH traffic from" ticked. Leave the rest as default and click launch instance.
+Click create and select Azure virtual machine and fill in details and click next:disk.
+You can leave the disk section as default and click next: networking
+In the networking section where it says "NIC network security group" select advanced and click on create new
+
+<img src="https://i.imgur.com/ip3CC17.png" height="80%" width="80%" alt="Image 2"/>  
 
 
-<img src="https://i.imgur.com/fdVAGzB.png" height="80%" width="80%" alt="Image 1"/>
+
+
 
 
 <H3>Step 2 – Connecting to EC2 instance </H3>
 Once the EC2 instance is in a running state you would need to connect to it. Right click and select connect.
 
-<img src="https://i.imgur.com/kaoMGqH.png" height="80%" width="80%" alt="Image 2"/>
+
 
 <img src="https://i.imgur.com/WQEebAw.png" height="80%" width="80%" alt="Image 3"/>
 

@@ -100,7 +100,7 @@ Head over to the log analytics workspaces page, click on your workspace and sele
 
 <img src="https://i.imgur.com/O7qwp6t.png" height="80%" width="80%" alt="Image 12"/>
 
-
+<img src="https://i.imgur.com/uDhPlsq.png" height="80%" width="80%" alt="Image 13"/>
 
 
 </p>

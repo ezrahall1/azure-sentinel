@@ -7,13 +7,14 @@ In this project I will be demonstrating how to set up a cloud based SIEM, as wel
 
 <h2>Services Used</h2>
 
-- <b>EC2</b>
-- <b>VPC</b> 
+- <b>Log Analytics Workspace</b>
+- <b>Sentinel (SIEM)</b>
+- <b>PowerShell</b> 
 
 <h2>Environments Used </h2>
 
-- <b>AWS</b>
-- <b>Putty</b>
+- <b>VMware Workstation</b>
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Create security group</H3>

@@ -54,7 +54,14 @@ Click on create log analytics workspaces, select your resource group, enter a na
 <img src="https://i.imgur.com/Nf0q73D.png" height="80%" width="80%" alt="Image 6"/>
 
 
-<H3>Step 3 – Install Jenkins</H3>
+<H3>Step 3 – Microsoft Defender for Cloudr</H3>
+
+The  next step is to go to the Microsoft Defender for Cloud. Click on Azure subscriptions and make the following changes
+
+<img src="https://i.imgur.com/rCWsfLB.png" height="80%" width="80%" alt="Image 7"/>
+
+
+<img src="https://i.imgur.com/AVGNv61.png" height="80%" width="80%" alt="Image 8"/>
 
 
 

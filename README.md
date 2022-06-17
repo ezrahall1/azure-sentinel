@@ -17,6 +17,7 @@ In this project I will be demonstrating how to set up a cloud based SIEM, as wel
 
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Create VM/H3>
+  
 Once you have log into the Azure account you would need to enter virtual machines in the search field.
   
 <img src="https://i.imgur.com/yLaNnxc.png" height="80%" width="80%" alt="Image 1"/>

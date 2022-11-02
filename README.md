@@ -106,6 +106,8 @@ Head over to the log analytics workspaces page, click on your workspace and sele
 
 <H3>Map of incoming attacks after 6 hours</H3>
 
+<img src="https://i.imgur.com/iYGlutN.png" height="80%" width="80%" alt="Image 14"/>
+
 </p>
 
 

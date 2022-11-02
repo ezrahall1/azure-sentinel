@@ -18,6 +18,10 @@ In this project I will be demonstrating how to set up a cloud based SIEM, as wel
 <h2>Utilities Used</h2>
 ipgeolocation.io: IP Address to Geolocation API
 
+<h2>YouTube Demonstration </h2>
+
+[Add a CI/CD pipeline to an Amazon S3 - video walk-through guide](https://youtu.be/iwx2R9J5h_c)
+
 <H3>Map of incoming attacks after 6 hours</H3>
 
 <img src="https://i.imgur.com/iYGlutN.png" height="80%" width="80%" alt="Image 14"/>

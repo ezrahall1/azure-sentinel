@@ -8,7 +8,7 @@ In this project I will be demonstrating how to set up a cloud based SIEM, as wel
 <h2>Services Used</h2>
 
 - <b>Log Analytics Workspace</b>
-- <b>Sentinel (SIEM)</b>
+- <b>Azure Sentinel SIEM</b>
 - <b>PowerShell</b> 
 
 <h2>Environments Used </h2>

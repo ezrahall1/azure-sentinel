@@ -30,6 +30,8 @@ ipgeolocation.io: IP Address to Geolocation API
 
 <img src="https://i.imgur.com/iYGlutN.png" height="80%" width="80%" alt="Image 14"/>
 
+<h2>Learning Outcome</h2>
+
 </p>
 
 

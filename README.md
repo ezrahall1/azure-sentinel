@@ -31,6 +31,12 @@ ipgeolocation.io: IP Address to Geolocation API
 <img src="https://i.imgur.com/iYGlutN.png" height="80%" width="80%" alt="Image 14"/>
 
 <h2>Learning Outcome</h2>
+Azure Sentinel is a scalable, cloud-native security information event management (SIEM) and security orchestration automated response (SOAR) solution. 
+
+Azure Sentinel collects data from different data sources, performs data correlation, and Data Visualization the processed data in a single dashboard. It helps to collect, detect, investigate and respond to security threats and incidents.
+
+From completing this project I was  able to understand how Azure Sentinel works and the benefits from using it in your environment.
+
 
 </p>
 

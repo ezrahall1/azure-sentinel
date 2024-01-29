@@ -1,7 +1,7 @@
 <h1>RDP brute force attempts on VM acting as a honeypot</h1>
 
 <h2>Description</h2>
-In this project I will be demonstrating how to set up a cloud based SIEM, as well as virtual machine in the cloud which will be the honeypot. It will have vulnerabilities to the internet which I will monitor and log the attacks from different ip addresses, from different countries all over the world. I will extract the failed log on data and ingest it into Azure Sentinel and present it on a world map so you can visualize where the attacks are coming from.
+In this project, my focus is on demonstrating the implementation of a cloud-based SIEM solution. Additionally, I will set up a virtual machine in the cloud to serve as a honeypot, deliberately exposing vulnerabilities to the internet. My objective is to monitor and log attacks originating from different IP addresses across the globe. Subsequently, I plan to extract the data related to failed logins and integrate it into Azure Sentinel. The final step involves presenting this information on a world map, allowing for a visual representation of the diverse geographical sources of these attacks.
 <br />
 
 
